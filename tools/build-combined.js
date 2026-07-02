@@ -42,7 +42,7 @@ function absImg(md, baseDir) {
 
 const cover = `
 <section class="cover">
-  <img class="cimg" src="file:///tmp/pdfbuild/opt/fundacao.jpg" alt="capa"/>
+  <img class="cimg" src="file:///tmp/pdfbuild/opt/diamante.jpg" alt="capa"/>
   <h1 class="ctitle">Programa de Modernização IMAP</h1>
   <div class="csub">Portfólio executivo — sistemas críticos migrados para uma base moderna, open-source e em nuvem</div>
   <div class="chips">

@@ -1,4 +1,4 @@
-![capa](assets/portfolio.png)
+![capa](assets/diamante.png)
 
 # O Pitch
 ## Enquanto a operação seguia normal, reconstruímos a fundação inteira.
