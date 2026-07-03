@@ -42,7 +42,7 @@ Sem parar a operação, sem big-bang e sem risco para o cidadão, **6 sistemas f
 
 ## 4. Os cinco ganhos decisivos
 
-1. **💸 Custo — cortado pela raiz.** Sai Adobe ColdFusion, sai Windows Server + CALs, saem componentes proprietários. Entra open-source: **licença R$ 0, para sempre**. Runtimes mais leves + 15 sistemas num host = **menos nuvem na fatura**.
+1. **💸 Custo — cortado pela raiz.** Sai Adobe ColdFusion, sai Windows Server + CALs, saem componentes proprietários. Entra open-source: **licença R$ 0, para sempre**. Runtimes mais leves + 15 sistemas num host = **menos nuvem na fatura** — que **já caiu ~29% em 12 meses**. A única sobretaxa de licença restante (~1/5 da fatura de nuvem) **zera com a frente de Infraestrutura**, e otimizações de armazenamento em andamento projetam **nova redução expressiva**.
 2. **🛡️ Segurança — décadas de atraso resolvidas de uma vez.** WAF (ModSecurity/OWASP) na borda, SIEM (Wazuh) vigiando, SELinux no kernel, TLS renovando sozinho em ~400 domínios, fail2ban, JWT, segredos protegidos. **Defesa em profundidade onde antes não havia nenhuma.**
 3. **⚖️ LGPD — conformidade fortalecida.** A base modernizada é **suportada, monitorada e auditável**, com **trilha de evidências** — exatamente o que a defesa de "medidas de segurança adequadas" da LGPD pede.
 4. **👥 Pessoas — liberdade de contratação.** De um mercado ColdFusion cada vez mais restrito para **as stacks mais contratáveis do planeta** (Python, .NET, React, TypeScript). Contratar, treinar e substituir ficou simples.
