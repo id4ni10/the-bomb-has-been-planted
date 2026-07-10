@@ -124,6 +124,8 @@ img[src^="file:"]:not([height]) {
 }
 /* The cover image at the very top of each doc gets a taller, more prominent band. */
 .doc > p:first-child img[src^="file:"]:not([height]) { height: 190px; }
+/* Diagrams (flywheel etc.) show in FULL — not cropped to a banner. Higher specificity to beat the banner rule. */
+img[src^="file:"][src*="flywheel"]:not([height]) { display: block; width: auto; max-width: 78%; height: auto; max-height: 360px; object-fit: contain; margin: 14px auto; border-radius: 0; box-shadow: none; page-break-inside: avoid; }
 /* Remote badges (shields.io) render at badge size, inline. */
 img[src^="http"] { height: 20px; width: auto; display: inline-block; vertical-align: middle; margin: 2px 3px; }
 /* Inline logo wall / table icons keep their intrinsic small size. */

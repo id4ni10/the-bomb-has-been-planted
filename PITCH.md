@@ -58,7 +58,22 @@ Nada foi apostado — **tudo foi provado antes de virar a chave**:
 
 > Este método agora é um **ativo da empresa**: qualquer sistema futuro entra na mesma esteira.
 
-## 6. O que vem agora
+## 6. O efeito volante — por que cada passo acelera o próximo
+
+O programa **não soma projetos — ele multiplica**. Cada frente entregue devolve energia para todas as outras, e o volante ganha inércia a cada volta:
+
+![O efeito volante do programa](assets/sections/flywheel.png)
+
+1. **🏗️ Fundação reutilizável** — cada sistema engrossa a plataforma comum (contêineres, CI, autenticação); o próximo **nasce pronto**. SGF e SGC já nasceram sobre a base do SIEJ.
+2. **💸 Consolidação** — cada sistema entra no host compartilhado com **custo marginal perto de R$ 0**; cada peça legada aposentada **baixa a conta de todos**.
+3. **🛡️ Segurança coletiva** — WAF, SIEM e SELinux protegem o host inteiro: um sistema novo entra **já blindado**, e cada endurecimento cobre **todos de uma vez**.
+4. **✅ Método provado** — a régua de validação criada no SAI3 (640 requisições) é reusada em cada frente seguinte; cada cutover deixa o próximo **mais confiante**.
+5. **👥 Conhecimento** — a equipe domina a stack **uma vez** e aplica em tudo; cada pessoa **multiplica o ritmo**.
+6. **📊 Dados unificados** — mesmo banco, mesma telemetria: **um** painel cobre tudo, e **um** achado (como a otimização de armazenamento) corta custo do **parque inteiro**.
+
+> **A leitura de negócio:** quanto mais o volante gira, **mais barato e rápido** fica girar. O ERP interno é a prova viva — hoje custa uma fração do que custaria se fosse o primeiro. **Cada volta lapida o diamante mais fundo.**
+
+## 7. O que vem agora
 
 A camada pública saiu do legado. As **duas peças de infraestrutura compartilhada** entram agora na mesma esteira — ambas com caminho de baixo atrito:
 
@@ -85,7 +100,7 @@ Os serviços novos **já entraram no host Docker consolidado**, ao lado das dema
 - **Cada frente entregue barateia a próxima** — o custo de reconstruir o ERP **caiu a cada sistema entregue**, porque plataforma, esteira e equipe treinada já existem.
 - **O retorno é diário e interno:** quem mais ganha com o ERP modernizado é **a própria equipe** — cada tela nova vira produtividade **dentro de casa**, todos os dias.
 
-## 7. O pedido
+## 8. O pedido
 
 1. **Aprovar o cutover gradual** das frentes já validadas (começando pelo SAI3, que provou 0 incompatibilidades).
 2. **Aprovar a frente de Infraestrutura** — banco e arquivos para Linux, fechando o ciclo da fundação.

@@ -128,15 +128,20 @@ Manter o legado não seria "custo zero" — seria um custo silencioso e crescent
 
 ---
 
-## 9. Valor nos próximos anos
+## 9. Valor nos próximos anos — o efeito volante
 
-O ganho não é só evitar problema — é **construir uma plataforma**:
+O ganho não é só evitar problema — é **construir uma plataforma que se acelera sozinha**. O programa **não soma projetos, multiplica**: cada frente entregue devolve energia para todas as outras.
 
-- **Reuso:** cada novo sistema herda a base (contêineres, segurança, CI) → **mais barato e mais rápido de construir**.
-- **Escala:** pronta para nuvem, contêineres e crescimento horizontal.
-- **Continuidade:** stack suportada **até 2032**, sem dívida técnica acumulada — vida útil estendida por **10–15 anos**.
-- **Novos produtos:** capacidades já criadas (ex.: NFS-e Nacional, acessibilidade por voz) viram **diferencial de mercado**.
-- **Posicionamento:** coloca o IMAP como **referência em governo digital**.
+![O efeito volante do programa](assets/sections/flywheel.png)
+
+- **🏗️ Reuso:** cada novo sistema herda a base (contêineres, segurança, CI) → **mais barato e mais rápido de construir**. SGF/SGC nasceram sobre a base do SIEJ.
+- **💸 Consolidação:** cada sistema entra no host compartilhado (custo marginal ~R$ 0) e cada peça legada aposentada **baixa a conta de todos**.
+- **🛡️ Segurança coletiva:** WAF/SIEM/SELinux protegem o host inteiro — o novo entra **já blindado**, e cada endurecimento cobre **todos**.
+- **✅ Método provado:** a régua de validação (640 req do SAI3) é reusada a cada frente — cada cutover deixa o próximo **mais confiante**.
+- **📊 Dados unificados:** um painel cobre tudo; **um** achado corta custo do parque inteiro.
+- **Continuidade:** stack suportada **até 2032**, sem dívida técnica; **novos produtos** (NFS-e Nacional, voz/IA) viram diferencial; posiciona o IMAP como **referência em governo digital**.
+
+> **Quanto mais o volante gira, mais barato e rápido fica girar.** O ERP interno é a prova viva — hoje custa uma fração do que custaria se fosse o primeiro. Cada volta lapida o diamante mais fundo.
 
 ---
 
